@@ -2,10 +2,7 @@
     <div>
         <h1>Repositories</h1>
         <p>
-            Repositório criado para a aplicação que cria um portfolio baseado
-            nos repositórios hospedados no Github. Com a aplicação será possível
-            inserir novos repositórios, atualizar, deletar e dar likes nos 
-            repositórios que mais gostou.
+            Projeto criado para a aplicação que cria um portfolio baseado nos repositórios hospedados no Github. Com a aplicação será possível inserir novos repositórios (referência a um repositório hospedado no Github), atualizar, deletar e dar likes nos repositórios que mais gostou.
         </p>
         <h2>Tecnologias</h2>
         <p>
